@@ -1,0 +1,7 @@
+This sample shows the different components are placed inside the scroll panel.
+All of the components (in this case these are LwList, LwTextField, LwGrid) implement
+the special interface that provides more flexible way to organize the scrolling.
+For example, LwTextField component scrolls its view and when you move the
+text caret out of the visible area the scroll panel will be notified by the
+text field component about the fact.
+

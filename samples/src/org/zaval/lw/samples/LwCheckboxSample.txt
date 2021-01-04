@@ -1,0 +1,6 @@
+This sample shows the LwCheckbox component usage:
+  1. This is general checkbox with a label.
+  2. This is radio group.
+  3. This is checkbox where the "box" element is placed to the right the label element.
+  4. This is checkbox without a label element.
+See the console output where a checkbox state changing is displayed.

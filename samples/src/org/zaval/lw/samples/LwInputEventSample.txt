@@ -1,0 +1,2 @@
+This is very simple sample that shows how mouse events can be listened
+for the custom component. See the console output as the sample result.

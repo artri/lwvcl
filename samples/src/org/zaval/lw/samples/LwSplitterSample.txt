@@ -1,0 +1,2 @@
+The sample shows the LwSplitPan component usage. There are two
+split panels that use vertical and horizontal orientations.

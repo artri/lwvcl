@@ -1,0 +1,2 @@
+This sample shows the Timer component usage. In this case the timer is used to change
+the box color in the defined period of time.

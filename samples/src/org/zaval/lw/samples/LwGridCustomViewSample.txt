@@ -1,0 +1,4 @@
+This sample shows how the LwGrid component cells views can be customized.
+The first column uses box element view to render its cells.
+The second column uses image with a label to render its cells.
+The last column uses image to render its cells.

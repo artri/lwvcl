@@ -1,0 +1,7 @@
+This sample shows how the LwGrid component cells can be made editable.
+    1. This grid uses default editors provider. The provider uses
+       LwTextField component as the cells editors.
+    2. This grid uses custom editors provider and custom view provider.
+       It allows to edit grid cells using the LwCheckbox component
+       (first column), the LwCombo component (second column) and the
+       LwTextField component (last column).

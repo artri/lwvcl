@@ -1,0 +1,3 @@
+This sample shows how the LwSlider component view can be customized.
+In this case the first slider uses custom titles render and the second customizes
+the slider gauge and bundle elements views.

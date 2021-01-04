@@ -1,0 +1,5 @@
+This sample shows how the parent component can listen the child component
+events by the usage global events listeners supporting provided by the
+LwEventManager class. In this sample the parent component changes border
+whenever the mouse pointer enters or exits the child button component
+(the parent listens the mouse entered and exited events of the child component).

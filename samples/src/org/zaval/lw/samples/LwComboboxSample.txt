@@ -1,0 +1,2 @@
+This sample shows the LwCombo component usage.
+See the console output where combo box selection events are displayed.

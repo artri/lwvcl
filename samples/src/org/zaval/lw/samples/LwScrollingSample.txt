@@ -1,0 +1,4 @@
+This sample shows the scroll panel component usage.
+  1. The first panel uses both vertical and horizontal scroll bars.
+  2. The second panel uses horizontal scroll bar.
+  3. The second panel uses vertical scroll bar.

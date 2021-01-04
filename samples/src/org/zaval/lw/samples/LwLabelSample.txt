@@ -1,0 +1,6 @@
+This sample illustrates different variations of the LwLabel component usage:
+   1. The simple single line label.
+   2. The simple multi-line label.
+   3. The simple label that uses red foreground and bold font.
+
+

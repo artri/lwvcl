@@ -1,0 +1,2 @@
+This sample shows the LwStButton component usage to create
+something like toolbar panel.

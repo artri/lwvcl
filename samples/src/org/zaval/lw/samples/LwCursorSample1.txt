@@ -1,0 +1,3 @@
+This sample shows how the mouse cursor can be customized.
+Move the mouse cursor into the red area it will be changed to the HAND cursor type.
+The sample controls the cursor type by the implementing the Cursorable interface.

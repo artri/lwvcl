@@ -1,0 +1,3 @@
+This sample shows how to set a tooltip for the specified component by the
+implementing the TooltipInfo interface. The interface is used to get
+a component to be used as the tooltip.

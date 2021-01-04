@@ -1,0 +1,6 @@
+This sample shows how to create own layout manager.
+The sample layout manager divides a container area to four parts:
+left top corner, right top corner, left bottom corner and right bottom corner.
+Each of the parts can be used to place a child component. To determine what
+part of the container area should be used for a given child component the
+sample layout provides four constants.

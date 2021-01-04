@@ -1,0 +1,3 @@
+The sample shows how the one scroll panel can be placed inside other scroll panel.
+In this case the first scroll panel uses vertical scroll bar and the nested
+scroll panel uses horizontal scroll bar.

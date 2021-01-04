@@ -1,0 +1,4 @@
+This sample shows how the LwCombo component view can be customized:
+  1. The combo box button view is customized.
+  2. The combo box button view is customized and the combo box elements are laid out using
+     another layout manager.

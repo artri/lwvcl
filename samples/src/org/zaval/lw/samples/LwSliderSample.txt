@@ -1,0 +1,5 @@
+This sample shows the LwSlider component usage with different alignments
+(vertical and horizontal), elements to show (titles, scale or neither),
+slider modes (interval or not).
+
+

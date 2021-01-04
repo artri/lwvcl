@@ -1,0 +1,2 @@
+This sample illustrates how other complex components (LwTree, LwGrid, LwNotebook)
+can be used as the LwGrid component cells views and editors.

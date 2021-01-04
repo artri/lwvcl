@@ -1,0 +1,2 @@
+This sample shows the LwTree component usage.
+See the console where item selection events and toggle events are displayed.

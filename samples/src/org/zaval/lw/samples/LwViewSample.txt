@@ -1,0 +1,4 @@
+This sample shows how to create own view. The view is used to
+show colors palette that is represented with 12 boxes. Every
+color is formed from previous color by adding the given incremet
+variable to red, green and blue values.

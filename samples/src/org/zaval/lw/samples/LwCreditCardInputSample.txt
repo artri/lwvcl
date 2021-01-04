@@ -1,0 +1,2 @@
+This sample shows how to organize masked input for the credit card number
+basing on standard mask validators.

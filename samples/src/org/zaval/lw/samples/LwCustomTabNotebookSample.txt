@@ -1,0 +1,2 @@
+This sample shows how the notebook tabs views can be customized.
+In this case the tab content is rendered as an image.

@@ -1,0 +1,5 @@
+This sample shows how the LwCheckbox component view can be customized:
+    1. This checkbox uses "+" and "--" text as the box element views.
+    2. This checkbox uses image as the checkbox label element.
+    3. This checkbox uses images to render the box element states.
+

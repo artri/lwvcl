@@ -1,0 +1,4 @@
+This sample shows how the LwButton component view can be customized:
+     1. The windows-like button.
+     2. The button changes label to indicate the state (pressed or unpressed).
+     3. The button uses images to define it views.

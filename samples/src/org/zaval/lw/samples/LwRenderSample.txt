@@ -1,0 +1,5 @@
+This sample shows how to create own render. The render paints integer
+matrix (the target object for the render conforms to int[][] Java type).
+The render use different colors to paint the matrix items. If an item
+divisible by 2 than "red" color is used, if item divisible by 3 than
+"yellow" color is used and so on.

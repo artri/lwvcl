@@ -1,0 +1,1 @@
+java -cp lib/lw.jar:lib/lwext.jar:lib/lwsamples.jar org.zaval.lw.samples.LwSamplesCentral

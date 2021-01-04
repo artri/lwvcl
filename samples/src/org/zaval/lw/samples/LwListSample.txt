@@ -1,0 +1,7 @@
+This sample shows the LwList component usage:
+1. This list uses simple items (LwLabel components) as the list content.
+2. This is special list (LwComboList) that reacts on mouse moved event.
+3. This list uses simple items (LwLabel) and another list component as its content.
+4. This list uses other components as its content.
+See the console output where messages are displayed whenever a new list
+item has been selected.

@@ -1,0 +1,3 @@
+This sample shows how to control grid cells alignments. There are nine cells
+where its content is aligned using different vertical and horizontal alignments.
+

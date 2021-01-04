@@ -1,0 +1,2 @@
+This sample shows the LwGrid component usage.
+See the console where messages are displayed whenever a grid row has been selected.

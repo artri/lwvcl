@@ -1,0 +1,6 @@
+This sample demonstrates the possibility of the opening modal and not modal
+windows from the other windows. The sample illustrates the modal windows stack.
+For example, a modal window is opened from the another modal window, after that
+from the last opened modal window we open several MDI widows. It is impossible to
+switch to the parent modal window, but it is possible to navigate among the last
+opened modal window and the MDI windows.

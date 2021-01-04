@@ -1,0 +1,2 @@
+This sample shows the LwNotebook component usage.
+There are four noteboook components with a different tabs alignments.

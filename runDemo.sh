@@ -1,0 +1,1 @@
+java -cp lib/lw.jar:lib/lwext.jar:lib/demo.jar org.zaval.lw.demo.LwDemo

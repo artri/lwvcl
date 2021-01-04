@@ -1,0 +1,3 @@
+This sample shows how the new layer can be created and added to the desktop.
+The layer is set as the top-level layer and draws the net like it does some
+GUI forms editors.

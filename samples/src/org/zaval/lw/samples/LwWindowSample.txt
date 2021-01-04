@@ -1,0 +1,4 @@
+This sample shows how the different light weight components can be shown as
+the internal window. In this case there are LwWindow, LwLabel and LwList
+components are shown as the internal windows. See the console where window
+events (window activated, deactivated, opened and closed) are displayed.

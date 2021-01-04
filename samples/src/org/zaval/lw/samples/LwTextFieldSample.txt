@@ -1,0 +1,8 @@
+This sample illustrates different variations of the LwTextField component usage:
+    1. The multi-line input field.
+    2. The multi-line none-editable input field. You can just select it content.
+    3. The single-line input field.
+    4. The single-line input field with fixed characters number.
+    5. The single-line password input field.
+See the console where any cursor position changing is displayed.
+

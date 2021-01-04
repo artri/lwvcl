@@ -1,0 +1,6 @@
+This sample shows how to organize input for hex number by the
+creation custom mask validator.
+Note: The library provides ready-to use mask validator that supports
+hex number validation, you should use it, since the sample is just
+for demonstration purposes.
+

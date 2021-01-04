@@ -1,0 +1,4 @@
+This sample shows how the LwTextField component rendering can be customized.
+The text field component draws some key words using different colors.
+Try to edit the text to see how the words highlighting works.
+

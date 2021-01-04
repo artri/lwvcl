@@ -1,0 +1,2 @@
+This sample illustrates how the gripper element of the LwSplitPan component
+can be customized.

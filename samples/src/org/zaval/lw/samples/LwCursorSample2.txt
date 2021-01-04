@@ -1,0 +1,5 @@
+This sample shows how the mouse cursor can be customized.
+Move the mouse cursor into the black rectangle it will be changed to the HAND cursor
+type. The sample controls the cursor type by the LwCursorManager usage. The both
+samples (the previous cursor customization sample) does the same thing but using
+different methods.
